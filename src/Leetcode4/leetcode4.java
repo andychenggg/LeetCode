@@ -5,7 +5,6 @@ public class leetcode4 {
     public static void main(String[] args) {
 
     }
-
     /**
      * 很容易找到O(m+n)的算法：
      * 1. 将两个数组归并
